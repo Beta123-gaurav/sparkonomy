@@ -54,7 +54,7 @@ warnings.filterwarnings("ignore")
 # -----------------------------------------------------------------------------
 # CONFIG
 # -----------------------------------------------------------------------------
-DEFAULT_DATASET_FILENAME = "sparkonomy_synthetic_survey_30.xlsx"  # repo root (matches your screenshot)
+DEFAULT_DATASET_FILENAME = "sparkonomy_synthetic_survey_30_strong"  # repo root (matches your screenshot)
 APP_VERSION = "1.1.0"
 
 st.set_page_config(
